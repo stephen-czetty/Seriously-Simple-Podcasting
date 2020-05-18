@@ -102,6 +102,11 @@ You can find complete user and developer documentation (along with the FAQs) on 
 
 == Changelog ==
 
+= 2.2.0-beta =
+* 2020-05-18
+* [NEW] Standard Audio Player block
+* [NEW] Podcast List Block
+
 = 2.1.0 =
 * 2020-05-11
 * [NEW] Block Editor support - adds a Castos Player block to the block editor, for use on posts and pages
